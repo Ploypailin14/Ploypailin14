@@ -21,7 +21,6 @@ I'm passionate about Front-end Development and UI/UX Design. I enjoy building mo
 - CSS3
 - Tailwind CSS
 - Bootstrap
-- Vite
 
 ### Back-end
 - Node.js
