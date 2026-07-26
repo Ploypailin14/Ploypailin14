@@ -1,16 +1,72 @@
-## Hi there 👋
+# Hi My name is Phloiphailin Khampuk👋
 
-<!--
-**Ploypailin14/Ploypailin14** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 Computer Science Student at Mae Fah Luang University (MFU)
 
-Here are some ideas to get you started:
+I'm passionate about Front-end Development and UI/UX Design. I enjoy building modern web applications and continuously improving skills.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🚀 About Me
+
+- 💻 Interested in Front-end Development
+- 🌱 Currently learning Vue.js, TypeScript, Tailwind CSS, Node.js and PostgreSQL
+- 🎯 Looking for Front-end Developer Internship opportunities
+- 🤝 Enjoy working in teams and learning new technologies
+
+## 🛠 Tech Stack
+
+### Front-end
+- Vue.js
+- JavaScript
+- TypeScript
+- HTML5
+- CSS3
+- Tailwind CSS
+- Bootstrap
+- Vite
+
+### Back-end
+- Node.js
+- PostgreSQL
+
+### Mobile
+- Flutter
+- Dart
+
+### Tools
+- Git
+- GitHub
+- VS Code
+- Figma
+
+---
+
+## 📌 Featured Project
+
+### 🏫 Temporary Room Reservation System (Senior Project)
+
+A web-based room reservation system for Mae Fah Luang University.
+
+**Main Features**
+
+- Room Reservation
+- Equipment Selection
+- Booking History
+- Admin Dashboard
+- QR Code Payment
+
+**My Responsibilities**
+
+- UI/UX Design
+- System Analysis
+- Documentation
+
+> 🚧 This project is currently under development.
+
+---
+
+## 📫 Contact
+
+📧 6631501181@lamduan.mfu.ac.th
+
+---
+
+⭐ Thank you for visiting my profile!
