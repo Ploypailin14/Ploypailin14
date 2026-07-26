@@ -14,6 +14,8 @@ I'm passionate about Front-end Development and UI/UX Design. I enjoy building mo
 ## 🛠 Tech Stack
 
 ### Front-end
+
+![Vue](https://img.shields.io/badge/Vue.js-4FC08D?style=for-the-badge&logo=vuedotjs&logoColor=white)
 - Vue.js
 - JavaScript
 - TypeScript
@@ -69,8 +71,3 @@ A web-based room reservation system for Mae Fah Luang University.
 ---
 
 ⭐ Thank you for visiting my profile!
-
-![Vue](https://img.shields.io/badge/Vue.js-4FC08D?style=for-the-badge&logo=vuedotjs&logoColor=white)
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
-![NodeJS](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-336791?style=for-the-badge&logo=postgresql&logoColor=white)
