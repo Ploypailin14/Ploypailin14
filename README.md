@@ -15,7 +15,6 @@ I'm passionate about Front-end Development and UI/UX Design. I enjoy building mo
 
 ### Front-end
 
-![Vue](https://img.shields.io/badge/Vue.js-4FC08D?style=for-the-badge&logo=vuedotjs&logoColor=white)
 - Vue.js
 - JavaScript
 - TypeScript
