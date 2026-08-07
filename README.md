@@ -14,7 +14,6 @@ I'm passionate about Front-end Development and UI/UX Design. I enjoy building mo
 ## 🛠 Tech Stack
 
 ### Front-end
-
 - Vue.js
 - JavaScript
 - TypeScript
@@ -25,7 +24,11 @@ I'm passionate about Front-end Development and UI/UX Design. I enjoy building mo
 
 ### Back-end
 - Node.js
+- REST API
+
+### Database
 - PostgreSQL
+- MySQL
 
 ### Mobile
 - Flutter
@@ -36,6 +39,7 @@ I'm passionate about Front-end Development and UI/UX Design. I enjoy building mo
 - GitHub
 - VS Code
 - Figma
+- XAMPP
 
 ---
 
