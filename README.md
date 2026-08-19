@@ -14,16 +14,15 @@ I'm passionate about Front-end Development and UI/UX Design. I enjoy building mo
 ## 🛠 Tech Stack
 
 ### Front-end
-- Vue.js
-- JavaScript
-- TypeScript
 - HTML5
 - CSS3
+- JavaScript
+- React
+- Vue.js
 - Tailwind CSS
 - Bootstrap
 
 ### Back-end
-- Node.js
 - REST API
 
 ### Database
@@ -40,6 +39,11 @@ I'm passionate about Front-end Development and UI/UX Design. I enjoy building mo
 - VS Code
 - Figma
 - XAMPP
+
+### Currently Learning
+-TypeScript
+-Node.js
+-PostgreSQL
 
 ---
 
