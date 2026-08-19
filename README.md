@@ -54,6 +54,11 @@ https://github.com/Pnt-CoMExE/Temporary-Room-Reservation-MFU.git
 
 A web-based room reservation system for Mae Fah Luang University.
 
+**Tech Stack**
+- Vue.js
+- Node.js
+- PostgreSQL
+
 **Main Features**
 
 - Room Reservation
