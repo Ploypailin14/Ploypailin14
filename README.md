@@ -41,9 +41,9 @@ I'm passionate about Front-end Development and UI/UX Design. I enjoy building mo
 - XAMPP
 
 ### Currently Learning
--TypeScript
--Node.js
--PostgreSQL
+- TypeScript
+- Node.js
+- PostgreSQL
 
 ---
 
