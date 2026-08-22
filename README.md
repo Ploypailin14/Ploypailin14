@@ -17,10 +17,6 @@ I'm passionate about Front-end Development and UI/UX Design. I enjoy building mo
 - HTML5
 - CSS3
 - JavaScript
-- React
-- Vue.js
-- Tailwind CSS
-- Bootstrap
 
 ### Back-end
 - REST API
@@ -28,6 +24,12 @@ I'm passionate about Front-end Development and UI/UX Design. I enjoy building mo
 ### Database
 - PostgreSQL
 - MySQL
+- 
+### Framework
+- React
+- Vue.js
+- Tailwind CSS
+- Bootstrap
 
 ### Mobile
 - Flutter
